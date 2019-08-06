@@ -29,7 +29,7 @@
             { type: core.Component, args: [{
                         // tslint:disable-next-line:component-selector
                         selector: 'smooth-dnd-draggable',
-                        template: "<ng-container #draggableWrapper>\r\n    <ng-content></ng-content>\r\n</ng-container>"
+                        template: "<ng-container #draggableWrapper>\n    <ng-content></ng-content>\n</ng-container>"
                     }] }
         ];
         DraggableComponent.propDecorators = {
@@ -165,7 +165,7 @@
             { type: core.Component, args: [{
                         // tslint:disable-next-line:component-selector
                         selector: "smooth-dnd-container",
-                        template: "<div #container>\r\n    <ng-content></ng-content>\r\n</div>"
+                        template: "<div #container>\n    <ng-content></ng-content>\n</div>"
                     }] }
         ];
         /** @nocollapse */
