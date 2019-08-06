@@ -30,7 +30,7 @@
     "intl": "1.2.5",
     "ng-packagr": "4.7.1",
     "rxjs": "^6.4.0",
-    "smooth-dnd": "^0.9.3",
+    "smooth-dnd": "^0.12.0",
     "tsickle": "^0.34.0",
     "tslib": "^1.9.0",
     "web-animations-js": "^2.3.1",
